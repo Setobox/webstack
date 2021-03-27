@@ -1,10 +1,10 @@
 favicon: /favicon.ico
-banner: /images/webstack_banner_cn.png
+banner: /img/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.jpg
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.jpg
+  expanded: /img/logo@2x.png
+  collapsed: /img/logo-collapsed@2x.png
+  dark: /img/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -44,136 +44,136 @@ menu:
 quickstart:
   - name: GitHub
     url: https://github.com/    # /child
-    img: /images/logos/github1.png
+    img: /img/logos/github1.png
     description: 面向开源及私有软件项目的托管平台
   - name: BiliBili
     url: https://www.bilibili.com/   
-    img: /images/logos/bilibili3.png
+    img: /img/logos/bilibili3.png
     description: 全国最大同性交友平台
   - name: Vercel
     url: https://vercel.com/dashboard    
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 静态网站托管平台
   - name: 腾讯云函数
     url: https://console.cloud.tencent.com/scf/list   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 云函数
   - name: LeetCode
     url: https://leetcode-cn.com/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 全球极客挚爱的技术成长平台
   # - name: 
   #   url: 
-  #   img: /images/logos/browser1.png
+  #   img: /img/logos/browser1.png
   #   description: 
 # 
 
 hosting:
   - name: Github
     url: https://github.com/
-    img: /images/logos/github1.png
+    img: /img/logos/github1.png
     description: 面向开源及私有软件项目的托管平台。
   - name: Vercel
     url: https://vercel.com/dashboard    
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 静态网站托管平台
   - name: Coding
     url: https://vercel.com/dashboard    
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 国内首个一站式云端软件服务平台
   - name: Gitee
     url: https://vercel.com/dashboard    
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 国内最大的托管平台
 
 document:
   - name: HTML5
     url: https://www.runoob.com/html/html5-intro.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: HTML5菜鸟教程
   - name: CSS
     url: https://www.runoob.com/css/css-tutorial.html  
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: CSS/CSS3菜鸟教程
   - name: JavaScript
     url: https://www.runoob.com/js/js-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: JS菜鸟教程
   - name: JQuery
     url: https://www.runoob.com/jquery/jquery-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: JQ菜鸟教程
   - name: Vue3
     url: https://www.runoob.com/vue3/vue3-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: Vue3菜鸟教程
   - name: BootStrap
     url: https://www.runoob.com/bootstrap/bootstrap-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: BootStrap菜鸟教程
   - name: Python3
     url: https://www.runoob.com/python3/python3-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: Python菜鸟教程
   - name: Sql
     url: https://www.runoob.com/sql/sql-tutorial.html   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: Sql语句菜鸟教程
   - name: Android
     url: https://developer.android.google.cn/guide   
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: Android开发文档
 
 nbTools:
   - name: 测速网
     url: https://www.speedtest.cn/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: speedtest国内测速
   - name: 测速网
     url: http://aaaaaa.speedtestcustom.com/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: speedtest外网测速
   - name: 表格转换
     url: https://tableconvert.com/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: md,yaml,json,xml等多格式互相转换
   - name: 正则测试
     url: https://regex101.com/
-    img: /images/logos/regex.png
+    img: /img/logos/regex.png
     description: 测试正则表达式
   - name: 图片压缩
     url: https://tinypng.com/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 免费压缩图片
   - name: 小码短链接
     url: https://xiaomark.com/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 将长链接缩短
   - name: 皮卡智能
     url: http://www.picup.shop/?ref=appinn
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 一键抠图
   - name: 拾取坐标系统
     url: http://api.map.baidu.com/lbsapi/getpoint/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 百度地图拾取坐标
   - name: 10分钟邮箱
     url: https://10minutemail.net/m/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 临时邮箱
 
 
 funSite:
   - name: 
     url: https://aidn.jp/mikutap/
-    img: /images/logos/browser1.png
+    img: /img/logos/browser1.png
     description: 无论怎么点都很好听
 
 
 mySite:
   - name: Setobox Blog
     url: https://blog.setobox.me/
-    img: /images/logos/myblog.jpg
+    img: /img/logos/myblog.jpg
     description: 姬顶盒的博客
 
 about:
@@ -188,8 +188,8 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: Setobox
-    url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
+    url: https://blog.setobox.me/
+    img: /img/logos/myblog.jpg
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/Setobox">Setobox</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
